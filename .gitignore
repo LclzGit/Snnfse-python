@@ -1,0 +1,12 @@
+.env
+*.pfx
+*.pem
+state.json
+xmls/
+logs/
+dados/
+danfse_pdfs/
+excel_competencias/
+__pycache__/
+*.pyc
+.DS_Store
